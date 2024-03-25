@@ -1,4 +1,7 @@
 # MonAlgo
+
+Faire en classes abstraites
+
 Puzzle Eternity, algo génétique
 
 Etape 1 : initialisation aléatoire sur toutes les pieces pour avoir une solution valable 
